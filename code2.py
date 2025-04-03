@@ -1,9 +1,9 @@
-def foo(x):
-  return x * 2
+def multiplyByTwo(n):
+  return n * 2
 
-def bar(y):
-  return y + 3
+def addthree(n):
+  return n + 3
 
 
-result = baz(5)
+result = addthree(5)
 print(result)
