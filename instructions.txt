@@ -1,0 +1,6 @@
+hello this is how you open file
+
+step 1: click file
+step 2: open file
+step 3: profit
+step 4: enjoy
